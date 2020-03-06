@@ -1,7 +1,10 @@
 body{
     background-image:url(yugi.jpg);
-    background-attachment: fixed;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-color: #000;
+    background-attachment: cover;
+    background-size: cover;
+    background-repeat: cover;
+    background-color: cover;
+}
+head {
+    font-family: Arial, Helvetica, sans-serif;
 }
