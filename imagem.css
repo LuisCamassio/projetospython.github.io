@@ -1,0 +1,7 @@
+body{
+    background-image:url(arte.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
